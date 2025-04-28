@@ -1,0 +1,13 @@
+{
+    "name": "MediaControls",
+    "description": "Adds simple media controls that feedback to my pc",
+    "uuid": "mediacontrols@callumtelfer.uk",
+    "shell-version": [
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+    ],
+    "version": 1
+}
